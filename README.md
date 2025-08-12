@@ -1,1 +1,1 @@
-# Dailydigest--News-App-
+# Dailydigest--News
